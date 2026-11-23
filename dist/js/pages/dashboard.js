@@ -118,21 +118,21 @@ $(function () {
     datasets: [
       {
         label               : 'Digital Goods',
-        backgroundColor     : 'rgba(60,141,188,0.9)',
-        borderColor         : 'rgba(60,141,188,0.8)',
+        backgroundColor     : 'rgba(148, 49, 49,0.9)',
+        borderColor         : 'rgba(148, 49, 49,0.8)',
         pointRadius          : false,
         pointColor          : '#3b8bba',
-        pointStrokeColor    : 'rgba(60,141,188,1)',
+        pointStrokeColor    : 'rgba(148, 49, 49,1)',
         pointHighlightFill  : '#fff',
-        pointHighlightStroke: 'rgba(60,141,188,1)',
+        pointHighlightStroke: 'rgba(148, 49, 49,1)',
         data                : [28, 48, 40, 19, 86, 27, 90]
       },
       {
         label               : 'Electronics',
-        backgroundColor     : 'rgba(210, 214, 222, 1)',
-        borderColor         : 'rgba(210, 214, 222, 1)',
+        backgroundColor     : 'rgba(186, 210, 218, 1)',
+        borderColor         : 'rgba(186, 210, 218, 1)',
         pointRadius         : false,
-        pointColor          : 'rgba(210, 214, 222, 1)',
+        pointColor          : 'rgba(186, 210, 218, 1)',
         pointStrokeColor    : '#c1c7d1',
         pointHighlightFill  : '#fff',
         pointHighlightStroke: 'rgba(220,220,220,1)',
